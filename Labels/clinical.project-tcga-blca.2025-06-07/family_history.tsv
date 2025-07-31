@@ -1,0 +1,245 @@
+project.project_id	cases.case_id	cases.submitter_id	family_histories.family_history_id	family_histories.relationship_age_at_diagnosis	family_histories.relationship_gender	family_histories.relationship_primary_diagnosis	family_histories.relationship_type	family_histories.relative_deceased	family_histories.relative_smoker	family_histories.relative_with_cancer_history	family_histories.relatives_with_cancer_history_count	family_histories.submitter_id
+TCGA-BLCA	0198d8e5-a14b-44ee-b1c4-d248994845ad	TCGA-DK-AA74	'--	'--	'--	Cervical Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	0198d8e5-a14b-44ee-b1c4-d248994845ad	TCGA-DK-AA74	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	01ee41ef-1894-4408-9e96-a22a1f068190	TCGA-GV-A3JV	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	01ee41ef-1894-4408-9e96-a22a1f068190	TCGA-GV-A3JV	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	03f588d6-832e-47d8-a9c4-af6640a1a635	TCGA-XF-A9SK	'--	'--	'--	Pancreas Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	03f588d6-832e-47d8-a9c4-af6640a1a635	TCGA-XF-A9SK	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	04477379-6c51-45d9-b9b9-d05d53b53945	TCGA-ZF-AA5H	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	04b9090a-e8ef-4f52-bc52-af90caa84168	TCGA-PQ-A6FI	'--	'--	'--	Sarcoma	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	071b350d-8745-4795-8194-a8c6491f0931	TCGA-DK-AA6X	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	071b350d-8745-4795-8194-a8c6491f0931	TCGA-DK-AA6X	'--	'--	'--	Multiple Myeloma	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	0d2cd56c-09c6-467d-b3aa-1f7fe0cc60e1	TCGA-DK-A6B1	'--	'--	'--	Gastric Cancer	Grandmother	'--	'--	yes	'--	'--
+TCGA-BLCA	0d2cd56c-09c6-467d-b3aa-1f7fe0cc60e1	TCGA-DK-A6B1	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	0da6502c-058d-47f5-9996-8aa1d511d7e4	TCGA-ZF-AA58	'--	'--	'--	Bladder Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	0fb043d3-d86b-4cd8-8c01-9e2b3e965bb0	TCGA-FD-A3SN	'--	'--	'--	Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	0fb043d3-d86b-4cd8-8c01-9e2b3e965bb0	TCGA-FD-A3SN	'--	'--	'--	Lung Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	0fb043d3-d86b-4cd8-8c01-9e2b3e965bb0	TCGA-FD-A3SN	'--	'--	'--	Gastric Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	104c8e20-1b29-4d77-9633-359a35be48fb	TCGA-DK-AA6U	'--	'--	'--	Skin Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	10c825d7-4e21-43e7-ac95-dda75fbdaf74	TCGA-DK-A6B2	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	17ee3278-dc2a-4021-a903-e4ed11e3218b	TCGA-XF-A8HC	'--	'--	'--	Ovarian Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	19da59a8-b67a-438d-900a-92a71e03bef3	TCGA-XF-AAMW	'--	'--	'--	Colorectal Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	19da59a8-b67a-438d-900a-92a71e03bef3	TCGA-XF-AAMW	'--	'--	'--	Pancreas Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	1eb0adbf-dbe8-4736-97f6-2dc4ee30e943	TCGA-ZF-A9RG	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	1eb0adbf-dbe8-4736-97f6-2dc4ee30e943	TCGA-ZF-A9RG	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	1ecfdf16-f5e9-4a08-8834-37f4b474179d	TCGA-4Z-AA7M	'--	'--	'--	Bladder Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	1ecfdf16-f5e9-4a08-8834-37f4b474179d	TCGA-4Z-AA7M	'--	'--	'--	Uterine Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	20ebeff1-e5a7-423a-be93-e7ebb82438ac	TCGA-GU-A764	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	20ebeff1-e5a7-423a-be93-e7ebb82438ac	TCGA-GU-A764	'--	'--	'--	Colorectal Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	22473ad4-df39-4716-b558-3c1409d5fa0e	TCGA-BT-A0YX	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	22473ad4-df39-4716-b558-3c1409d5fa0e	TCGA-BT-A0YX	'--	'--	'--	Colorectal Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	22dbea93-3e1b-4e1b-ba40-55f08b99e73b	TCGA-DK-AA71	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	22dbea93-3e1b-4e1b-ba40-55f08b99e73b	TCGA-DK-AA71	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	234086dd-5a74-4ff1-94ab-bad43ee69d5c	TCGA-DK-A2I2	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	24ad2168-b25a-4de8-a021-dfe1c74fcc6e	TCGA-XF-AAN3	'--	'--	'--	Gastric Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	24d56331-4bca-4ab8-9fb7-a95a30b4c8fe	TCGA-ZF-AA5P	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	28e25ffb-8b0c-4839-a735-ed7b78e3213a	TCGA-G2-A2EC	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	2a142731-119c-495d-ad30-eb0b48bacb46	TCGA-G2-A2EF	'--	'--	'--	Prostate Cancer	Grandfather	'--	'--	yes	'--	'--
+TCGA-BLCA	3071cb51-dcf5-41f7-b047-afc2dcbf0aaf	TCGA-FD-A3SQ	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	3071cb51-dcf5-41f7-b047-afc2dcbf0aaf	TCGA-FD-A3SQ	'--	'--	'--	Bladder Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	3071cb51-dcf5-41f7-b047-afc2dcbf0aaf	TCGA-FD-A3SQ	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	30c7445e-d0c4-4a0f-96a4-27e4259ee10b	TCGA-G2-A2EL	'--	'--	'--	Head and Neck Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	33bc6a7c-9844-41e3-96b3-1e34bb3fedd5	TCGA-GV-A3QH	'--	'--	'--	Bladder Cancer	Grandfather	'--	'--	yes	'--	'--
+TCGA-BLCA	33bc6a7c-9844-41e3-96b3-1e34bb3fedd5	TCGA-GV-A3QH	'--	'--	'--	Kidney Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	36c14e9d-1863-4c55-bbbb-f8c9dd418932	TCGA-DK-A1AC	'--	'--	'--	Kidney Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	386f51e4-d03a-4606-bf2e-6168f2122c5f	TCGA-ZF-A9RL	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	386f51e4-d03a-4606-bf2e-6168f2122c5f	TCGA-ZF-A9RL	'--	'--	'--	CNS Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	386f51e4-d03a-4606-bf2e-6168f2122c5f	TCGA-ZF-A9RL	'--	'--	'--	Gastric Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	390a29fe-2cfd-43c4-a247-69e692763e17	TCGA-XF-AAMG	'--	'--	'--	Lymphoma	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	39fdc742-8bdb-4e77-b20b-0f967a75e659	TCGA-LC-A66R	'--	'--	'--	Ovarian Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	39fdc742-8bdb-4e77-b20b-0f967a75e659	TCGA-LC-A66R	'--	'--	'--	Gastric Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	3b16881a-88c2-4048-b78f-e3e183503f70	TCGA-GU-AATP	'--	'--	'--	Colorectal Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	3b16881a-88c2-4048-b78f-e3e183503f70	TCGA-GU-AATP	'--	'--	'--	Lymphoma	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	3cccffea-bd7d-4548-bb38-fe5eda630de6	TCGA-FD-A43N	'--	'--	'--	Liver Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	3cccffea-bd7d-4548-bb38-fe5eda630de6	TCGA-FD-A43N	'--	'--	'--	Lung Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	3ed614e7-f356-4d87-985b-d3bbbae3bb40	TCGA-DK-A1A7	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	3ed614e7-f356-4d87-985b-d3bbbae3bb40	TCGA-DK-A1A7	'--	'--	'--	Lymphoma	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	40551d53-388b-4067-9341-76e94d023703	TCGA-DK-A3X2	'--	'--	'--	Kidney Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	40551d53-388b-4067-9341-76e94d023703	TCGA-DK-A3X2	'--	'--	'--	Ovarian Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	40551d53-388b-4067-9341-76e94d023703	TCGA-DK-A3X2	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	4107ae6f-502c-4bdc-bf14-e4b3711cba38	TCGA-E5-A2PC	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	41b59716-116f-4942-8b63-409870a87e26	TCGA-DK-A3IM	'--	'--	'--	Leukemia	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	4570b6e2-d430-41ca-aab1-ce4d14c36463	TCGA-FD-A3SL	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	4570b6e2-d430-41ca-aab1-ce4d14c36463	TCGA-FD-A3SL	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	462d5a6b-9f39-4aae-a35b-d06a7811d053	TCGA-FD-A3B5	'--	'--	'--	Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	462d5a6b-9f39-4aae-a35b-d06a7811d053	TCGA-FD-A3B5	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	474582f2-8dec-4fbc-803f-4fd9ba2e0957	TCGA-FD-A3SM	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	493a4ff2-37a5-4b79-928d-83dbfe534556	TCGA-DK-A1AE	'--	'--	'--	Bladder Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	49ea6676-ae27-4ca0-a7b3-48423d606d48	TCGA-4Z-AA7Y	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	49ea6676-ae27-4ca0-a7b3-48423d606d48	TCGA-4Z-AA7Y	'--	'--	'--	Leukemia	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	4a9ef220-922c-49cf-bbed-d173b214ed31	TCGA-CU-A0YO	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	4b5d873b-bfda-482e-92a0-bf84c0f9032a	TCGA-FD-A3B3	'--	'--	'--	Colorectal Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	4d323b18-ce5a-4516-862d-7ed1fdf1f008	TCGA-GC-A3YS	'--	'--	'--	Bladder Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	4d323b18-ce5a-4516-862d-7ed1fdf1f008	TCGA-GC-A3YS	'--	'--	'--	Ovarian Cancer	Grandmother	'--	'--	yes	'--	'--
+TCGA-BLCA	4d323b18-ce5a-4516-862d-7ed1fdf1f008	TCGA-GC-A3YS	'--	'--	'--	Adrenal Gland Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	51fdb034-5d05-427b-b6b8-b6eecd65d976	TCGA-XF-A9SL	'--	'--	'--	Multiple Myeloma	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	5378f375-aa04-4eca-bc35-190b3efb52bc	TCGA-XF-AAN1	'--	'--	'--	Gastric Cancer	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	556fcbc8-172a-4af1-8822-ae036e8d68e8	TCGA-BL-A13J	'--	'--	'--	Lung Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	56d8a1b8-1268-4362-a7f1-77b76fbf1b59	TCGA-DK-A1AA	'--	'--	'--	Rectal Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	56d8a1b8-1268-4362-a7f1-77b76fbf1b59	TCGA-DK-A1AA	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	56d8a1b8-1268-4362-a7f1-77b76fbf1b59	TCGA-DK-A1AA	'--	'--	'--	Melanoma	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	56d8a1b8-1268-4362-a7f1-77b76fbf1b59	TCGA-DK-A1AA	'--	'--	'--	Lung Cancer	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	56d8a1b8-1268-4362-a7f1-77b76fbf1b59	TCGA-DK-A1AA	'--	'--	'--	Colorectal Cancer	Grandfather	'--	'--	yes	'--	'--
+TCGA-BLCA	573e124f-98cb-4014-b9d2-0499f7fbdb7a	TCGA-UY-A78N	'--	'--	'--	Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	573e124f-98cb-4014-b9d2-0499f7fbdb7a	TCGA-UY-A78N	'--	'--	'--	Gastric Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	5c4aebeb-fb6f-4d66-b24a-89ef20de971e	TCGA-DK-A2I4	'--	'--	'--	CNS Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	5d06cc19-8b10-4ed1-b6d4-8e044f1f8a8c	TCGA-E7-A5KF	'--	'--	'--	Bladder Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	5d54c742-5a8e-4c40-8d62-95e75e210ab8	TCGA-GD-A2C5	'--	'--	'--	Lung Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	5da1cb68-c438-4ddc-999f-90aed0c4bd7a	TCGA-G2-A2EK	'--	'--	'--	Skin Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	5f5c1775-a908-483d-8a77-b902c5b7570e	TCGA-XF-A9T0	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	5f99dcff-d809-4c87-8024-c9b30bd565e9	TCGA-FD-A3SP	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	5f99dcff-d809-4c87-8024-c9b30bd565e9	TCGA-FD-A3SP	'--	'--	'--	Unknown	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	60419f8c-92c2-4e8f-b2fa-a767d30c9d59	TCGA-DK-AA6Q	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	604c0d60-6ba9-4d2f-98db-e310c58bc8ca	TCGA-4Z-AA89	'--	'--	'--	Rectal Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	604c0d60-6ba9-4d2f-98db-e310c58bc8ca	TCGA-4Z-AA89	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	63fa8434-4a6f-4c32-9c5d-89dcc913900b	TCGA-DK-AA6W	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	63fa8434-4a6f-4c32-9c5d-89dcc913900b	TCGA-DK-AA6W	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	63fa8434-4a6f-4c32-9c5d-89dcc913900b	TCGA-DK-AA6W	'--	'--	'--	Leukemia	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	661967e5-94b3-4f98-9402-6ab137893c16	TCGA-YF-AA3L	'--	'--	'--	Gynecologic Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	661967e5-94b3-4f98-9402-6ab137893c16	TCGA-YF-AA3L	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	691adaa9-196a-4b62-9437-640c4ae6e2b2	TCGA-HQ-A2OF	'--	'--	'--	Gastric Cancer	Grandmother	'--	'--	yes	'--	'--
+TCGA-BLCA	6bddafde-7004-49b6-80cf-8081cd4b7d44	TCGA-DK-A3X1	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	6ee03f14-14ac-4cb9-bd23-b69704176301	TCGA-YC-A9TC	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	6ee18b9a-3f45-491f-9535-502820cfcf46	TCGA-XF-A9T6	'--	'--	'--	Pancreas Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	6ee18b9a-3f45-491f-9535-502820cfcf46	TCGA-XF-A9T6	'--	'--	'--	Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	73bc18a4-3600-409e-a2b5-e09e2b3f040d	TCGA-DK-A6B0	'--	'--	'--	Unknown	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	73bc18a4-3600-409e-a2b5-e09e2b3f040d	TCGA-DK-A6B0	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	76388364-eb01-4b16-a2b9-0b6c05b4b386	TCGA-XF-A9SP	'--	'--	'--	CNS Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	76388364-eb01-4b16-a2b9-0b6c05b4b386	TCGA-XF-A9SP	'--	'--	'--	Esophageal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	797a71ee-372d-41e5-aeee-5ab3c4661110	TCGA-BT-A2LA	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	797a71ee-372d-41e5-aeee-5ab3c4661110	TCGA-BT-A2LA	'--	'--	'--	Melanoma	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	79f23a0e-5aae-4618-8191-7dd7c0552408	TCGA-GV-A3QG	'--	'--	'--	Head and Neck Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	79f23a0e-5aae-4618-8191-7dd7c0552408	TCGA-GV-A3QG	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	7a7fcdd3-cce9-47cf-a26f-cc6ff34ecd9a	TCGA-CU-A5W6	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	7d71945a-b81a-405c-bb17-cec9b1d7592c	TCGA-ZF-A9RM	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	811b3950-36e7-485f-bc48-aca1eee2ddef	TCGA-CU-A0YR	'--	'--	'--	Bladder Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	811b3950-36e7-485f-bc48-aca1eee2ddef	TCGA-CU-A0YR	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	841b4582-a268-4a55-a9a2-47c7e5c3b69f	TCGA-XF-A8HE	'--	'--	'--	Ovarian Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	8573e114-ac20-4113-a942-01f2d1562a7b	TCGA-XF-A8HF	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	88a521ce-a5e9-4c6f-83d4-ec36a62fedb6	TCGA-DK-A1AD	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	88a521ce-a5e9-4c6f-83d4-ec36a62fedb6	TCGA-DK-A1AD	'--	'--	'--	Bladder Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	88a521ce-a5e9-4c6f-83d4-ec36a62fedb6	TCGA-DK-A1AD	'--	'--	'--	Esophageal Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	899f8d52-4c3a-4371-90eb-1f106001eddc	TCGA-FD-A3B4	'--	'--	'--	Breast Cancer	Not Reported	'--	'--	yes	'--	'--
+TCGA-BLCA	899f8d52-4c3a-4371-90eb-1f106001eddc	TCGA-FD-A3B4	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	899f8d52-4c3a-4371-90eb-1f106001eddc	TCGA-FD-A3B4	'--	'--	'--	Head and Neck Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	899f8d52-4c3a-4371-90eb-1f106001eddc	TCGA-FD-A3B4	'--	'--	'--	Leukemia	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	8a83f744-8469-41ef-a4cd-e983f849383f	TCGA-XF-A9SY	'--	'--	'--	Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	8c1dd7f7-b74a-4fa2-b6a7-86f0348d2567	TCGA-FD-A3N6	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	8da76432-3004-47e5-a474-bd94bd4c0b33	TCGA-FD-A5BY	'--	'--	'--	Pancreas Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	8da76432-3004-47e5-a474-bd94bd4c0b33	TCGA-FD-A5BY	'--	'--	'--	Leukemia	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	904a8757-e0c5-41ef-b583-c8f170caaac1	TCGA-DK-A1A5	'--	'--	'--	Melanoma	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	90bf49b7-6710-4665-82df-30ecc22c59a3	TCGA-XF-A8HB	'--	'--	'--	Lung Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	92c6856a-b26f-4512-bbb1-8a8aff4636ab	TCGA-ZF-AA53	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	92c6856a-b26f-4512-bbb1-8a8aff4636ab	TCGA-ZF-AA53	'--	'--	'--	CNS Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	92c6856a-b26f-4512-bbb1-8a8aff4636ab	TCGA-ZF-AA53	'--	'--	'--	CNS Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	93fbe302-a2e0-4cf4-a638-312786f547c2	TCGA-XF-AAMF	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	94809fbf-4895-42c0-a7c6-f39ee1a41f1a	TCGA-FD-A3SO	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	980c7214-f708-4499-818d-f3de87dc6de7	TCGA-FD-A5BU	'--	'--	'--	Ovarian Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	987e8157-fbea-40f3-aa01-0092d6cceb97	TCGA-XF-AAN2	'--	'--	'--	Lung Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	9883c38f-87bf-4421-bfc0-1b1001f8159c	TCGA-G2-AA3F	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	98b9ad62-76ed-43e3-91bc-b8f065d79673	TCGA-G2-A2EO	'--	'--	'--	Adrenal Gland Cancer	Not Reported	'--	'--	yes	'--	'--
+TCGA-BLCA	98b9ad62-76ed-43e3-91bc-b8f065d79673	TCGA-G2-A2EO	'--	'--	'--	Liver Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	9aa6522a-120a-4691-993e-3f8534f644b5	TCGA-K4-A3WU	'--	'--	'--	Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	9aa6522a-120a-4691-993e-3f8534f644b5	TCGA-K4-A3WU	'--	'--	'--	Bladder Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	9c274536-3ca1-4f0e-93a8-1688074d862f	TCGA-DK-A1A6	'--	'--	'--	Liver Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	9c46846e-7f66-4936-af97-50a7b8189d84	TCGA-GU-A42Q	'--	'--	'--	Leukemia	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	9c46846e-7f66-4936-af97-50a7b8189d84	TCGA-GU-A42Q	'--	'--	'--	Kidney Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	9d2b19eb-bd61-490e-982b-fadf2c4aadf7	TCGA-XF-AAMY	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	9d2b19eb-bd61-490e-982b-fadf2c4aadf7	TCGA-XF-AAMY	'--	'--	'--	Ovarian Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	9dd97821-7afd-4982-8b1d-f14f845b79f7	TCGA-BT-A2LD	'--	'--	'--	Liver Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	9ee8e704-c61d-413d-b69d-257ef829fdae	TCGA-GV-A3QK	'--	'--	'--	Gastric Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	a648d9bf-cf37-41fc-9515-e8f5ac85fcd4	TCGA-XF-A9SX	'--	'--	'--	Esophageal Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	a658becf-3934-49f2-9e74-291dca61d4bb	TCGA-FD-A3N5	'--	'--	'--	Lung Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	aa6b44ab-14b1-4b5d-8679-ba958b546afa	TCGA-XF-A9T2	'--	'--	'--	Cancer	Grandmother	'--	'--	yes	'--	'--
+TCGA-BLCA	aaa55de1-8f53-4b56-ba0a-67cff909cf81	TCGA-ZF-A9R5	'--	'--	'--	Lung Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	aadcf26b-c398-489f-a86a-e8db1b5db456	TCGA-GD-A6C6	'--	'--	'--	Colorectal Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	aadcf26b-c398-489f-a86a-e8db1b5db456	TCGA-GD-A6C6	'--	'--	'--	Colorectal Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	aadcf26b-c398-489f-a86a-e8db1b5db456	TCGA-GD-A6C6	'--	'--	'--	Unknown	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	ab6580e4-5de9-4361-b06a-1d20e5571890	TCGA-DK-A6B6	'--	'--	'--	CNS Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	ab6580e4-5de9-4361-b06a-1d20e5571890	TCGA-DK-A6B6	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	acf6bdf3-6349-49dc-b99a-4eda648eeac5	TCGA-GC-A6I3	'--	'--	'--	Cancer	Grandfather	'--	'--	yes	'--	'--
+TCGA-BLCA	ada95115-275f-4229-aa00-f298a5ff931c	TCGA-XF-AAMT	'--	'--	'--	Leukemia	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	ae080e88-82da-480c-bd13-ae214da0463c	TCGA-CU-A72E	'--	'--	'--	Head and Neck Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	ae080e88-82da-480c-bd13-ae214da0463c	TCGA-CU-A72E	'--	'--	'--	Lung Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	b319798a-3f35-4902-8ecf-5be529d99312	TCGA-XF-A9SJ	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	b36e3b5f-8904-4722-adae-b00812efec65	TCGA-ZF-AA4R	'--	'--	'--	Testicular Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	b36e3b5f-8904-4722-adae-b00812efec65	TCGA-ZF-AA4R	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	b41df0b0-572e-4ddb-9f1d-1b69dd1ad290	TCGA-DK-A6AV	'--	'--	'--	Colorectal Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	b6c36037-56b1-4957-8df8-fda72b0d3c39	TCGA-XF-AAN4	'--	'--	'--	Pancreas Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	b9b61cf9-8711-4c3a-8511-659070cfe36b	TCGA-XF-A8HG	'--	'--	'--	Lymphoma	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	b9b61cf9-8711-4c3a-8511-659070cfe36b	TCGA-XF-A8HG	'--	'--	'--	Kidney Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	b9b61cf9-8711-4c3a-8511-659070cfe36b	TCGA-XF-A8HG	'--	'--	'--	Bladder Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	c04cc413-95b0-4b56-af55-9596a5ead4a6	TCGA-G2-AA3C	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	c65ba2b8-e867-42e8-bbd0-c2cdf5130cfb	TCGA-G2-A3IE	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	c728fac9-5452-4759-a4ed-a366e0f757cb	TCGA-DK-A2HX	'--	'--	'--	Breast Cancer	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	c8388ac0-975d-4f1e-8324-8cabdc75738d	TCGA-XF-AAME	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	ca6403dd-3bd5-4023-8ea1-9957ec44dba5	TCGA-E5-A4TZ	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	ca6403dd-3bd5-4023-8ea1-9957ec44dba5	TCGA-E5-A4TZ	'--	'--	'--	Liver Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	ccd65bc8-82ef-453e-b4bc-a005cc2262d5	TCGA-ZF-AA4V	'--	'--	'--	Breast Cancer	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	ccd65bc8-82ef-453e-b4bc-a005cc2262d5	TCGA-ZF-AA4V	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	ce4e4549-befc-447f-9b79-ed46e302e6d7	TCGA-ZF-A9R7	'--	'--	'--	Uterine Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	cea28eac-4442-4436-b737-536e45b89989	TCGA-DK-AA75	'--	'--	'--	Lung Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	cea28eac-4442-4436-b737-536e45b89989	TCGA-DK-AA75	'--	'--	'--	Lung Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	cea28eac-4442-4436-b737-536e45b89989	TCGA-DK-AA75	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	cea28eac-4442-4436-b737-536e45b89989	TCGA-DK-AA75	'--	'--	'--	Lung Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	cede5274-279d-4021-8aca-5ecc4bf94d66	TCGA-H4-A2HQ	'--	'--	'--	Cervical Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	d17a5ab1-3789-4652-aff5-d8f4f2291f9c	TCGA-BT-A2LB	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	d2f329b3-5b44-414b-bccd-7b2d1345d21e	TCGA-MV-A51V	'--	'--	'--	Gastric Cancer	Grandfather	'--	'--	yes	'--	'--
+TCGA-BLCA	d349fae0-dd40-4292-908c-ac86a9938240	TCGA-FD-A43Y	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	d5e8d936-40ae-4fd3-b40e-cac54763d71f	TCGA-DK-A6B5	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	d5e8d936-40ae-4fd3-b40e-cac54763d71f	TCGA-DK-A6B5	'--	'--	'--	Pancreas Cancer	Grandfather	'--	'--	yes	'--	'--
+TCGA-BLCA	d63c186d-add6-492e-8250-e83f46d39d00	TCGA-DK-A3WX	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	d63c186d-add6-492e-8250-e83f46d39d00	TCGA-DK-A3WX	'--	'--	'--	Uterine Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	d63c186d-add6-492e-8250-e83f46d39d00	TCGA-DK-A3WX	'--	'--	'--	Lung Cancer	Not Reported	'--	'--	yes	'--	'--
+TCGA-BLCA	d63c186d-add6-492e-8250-e83f46d39d00	TCGA-DK-A3WX	'--	'--	'--	Bladder Cancer	Not Reported	'--	'--	yes	'--	'--
+TCGA-BLCA	d8b07fdd-5580-4bcc-9619-b5e0c9f0aa3d	TCGA-DK-AA6M	'--	'--	'--	Lung Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	db52c68a-ed44-4ec4-9381-d75f9bcbc29a	TCGA-GC-A3WC	'--	'--	'--	Gallbladder Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	db52c68a-ed44-4ec4-9381-d75f9bcbc29a	TCGA-GC-A3WC	'--	'--	'--	Multiple Myeloma	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	db52c68a-ed44-4ec4-9381-d75f9bcbc29a	TCGA-GC-A3WC	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	dc321b92-7275-48c9-adeb-7670db3195ef	TCGA-XF-A9SZ	'--	'--	'--	Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	dc321b92-7275-48c9-adeb-7670db3195ef	TCGA-XF-A9SZ	'--	'--	'--	Leukemia	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	de810af0-4c18-4e8f-9836-f8abc425e3eb	TCGA-DK-A2I6	'--	'--	'--	Colorectal Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	de810af0-4c18-4e8f-9836-f8abc425e3eb	TCGA-DK-A2I6	'--	'--	'--	Lung Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	de810af0-4c18-4e8f-9836-f8abc425e3eb	TCGA-DK-A2I6	'--	'--	'--	Lung Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	e1540865-69c2-4b60-a78e-97d0ce2957dc	TCGA-G2-AA3D	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	e44f60ec-66c4-45a2-a003-0a1faf1d6e03	TCGA-DK-A3IQ	'--	'--	'--	Colorectal Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	e44f60ec-66c4-45a2-a003-0a1faf1d6e03	TCGA-DK-A3IQ	'--	'--	'--	Lung Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	e44f60ec-66c4-45a2-a003-0a1faf1d6e03	TCGA-DK-A3IQ	'--	'--	'--	Kidney Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	e44f60ec-66c4-45a2-a003-0a1faf1d6e03	TCGA-DK-A3IQ	'--	'--	'--	Breast Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	e44f60ec-66c4-45a2-a003-0a1faf1d6e03	TCGA-DK-A3IQ	'--	'--	'--	Multiple Myeloma	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	e6f7bf6c-92b1-4795-94fc-b189d0c7877f	TCGA-ZF-AA4X	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	e7680a8e-1c0e-426b-abd8-d0d8e7d0e5aa	TCGA-GU-A766	'--	'--	'--	Prostate Cancer	Grandfather	'--	'--	yes	'--	'--
+TCGA-BLCA	e7680a8e-1c0e-426b-abd8-d0d8e7d0e5aa	TCGA-GU-A766	'--	'--	'--	Lung Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	e7680a8e-1c0e-426b-abd8-d0d8e7d0e5aa	TCGA-GU-A766	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	e7e95597-ef88-4442-8c01-8d633822e7b5	TCGA-XF-AAN0	'--	'--	'--	Lung Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	eb30ae33-2076-475d-aac9-804a8f1119a0	TCGA-ZF-AA56	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	eb30ae33-2076-475d-aac9-804a8f1119a0	TCGA-ZF-AA56	'--	'--	'--	Colorectal Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	eb4f8c76-08d9-4ba4-846e-969fded63a87	TCGA-DK-AA77	'--	'--	'--	Multiple Myeloma	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	ec7fc492-53cc-4b71-a66a-1cef1adeba33	TCGA-LT-A5Z6	'--	'--	'--	Head and Neck Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	ec7fc492-53cc-4b71-a66a-1cef1adeba33	TCGA-LT-A5Z6	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	f027d254-ec01-4882-a8a7-964ae90b7d49	TCGA-DK-A1AB	'--	'--	'--	Pancreas Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	f027d254-ec01-4882-a8a7-964ae90b7d49	TCGA-DK-A1AB	'--	'--	'--	Liver Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	f093f043-efd4-4cba-a87f-8cbb5c1acd9e	TCGA-DK-A3IU	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	f093f043-efd4-4cba-a87f-8cbb5c1acd9e	TCGA-DK-A3IU	'--	'--	'--	Leukemia	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	f3104468-bf17-434b-8a7e-bc3b253121ea	TCGA-DK-A1AF	'--	'--	'--	Liver Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	f3104468-bf17-434b-8a7e-bc3b253121ea	TCGA-DK-A1AF	'--	'--	'--	Liver Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	f5e03536-26e1-480d-a7bb-010eb8210cd6	TCGA-XF-A9SW	'--	'--	'--	Pancreas Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	f5e03536-26e1-480d-a7bb-010eb8210cd6	TCGA-XF-A9SW	'--	'--	'--	Breast Cancer	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	f5e03536-26e1-480d-a7bb-010eb8210cd6	TCGA-XF-A9SW	'--	'--	'--	Prostate Cancer	Father	'--	'--	yes	'--	'--
+TCGA-BLCA	f5e03536-26e1-480d-a7bb-010eb8210cd6	TCGA-XF-A9SW	'--	'--	'--	Lung Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	f5e03536-26e1-480d-a7bb-010eb8210cd6	TCGA-XF-A9SW	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	f5e03536-26e1-480d-a7bb-010eb8210cd6	TCGA-XF-A9SW	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	f632bc31-3aa0-4783-b10b-818ecb26d40b	TCGA-GU-A763	'--	'--	'--	Ovarian Cancer	Child	'--	'--	yes	'--	'--
+TCGA-BLCA	f78cb4fa-5548-40f8-b71b-663dde47f539	TCGA-ZF-AA5N	'--	'--	'--	Ovarian Cancer	Mother	'--	'--	yes	'--	'--
+TCGA-BLCA	f78cb4fa-5548-40f8-b71b-663dde47f539	TCGA-ZF-AA5N	'--	'--	'--	Lung Cancer	Grandmother	'--	'--	yes	'--	'--
+TCGA-BLCA	f8c0a69c-df53-4a0a-a30e-4424c0ce3dd5	TCGA-DK-A1AG	'--	'--	'--	Bladder Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	f8c0a69c-df53-4a0a-a30e-4424c0ce3dd5	TCGA-DK-A1AG	'--	'--	'--	Bladder Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	f953dc5d-58bf-4936-b9fe-74b45e8c00e5	TCGA-DK-A3IV	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	f953dc5d-58bf-4936-b9fe-74b45e8c00e5	TCGA-DK-A3IV	'--	'--	'--	Lung Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	f9a7ab94-70df-4194-8102-66021d01dadd	TCGA-XF-A9T5	'--	'--	'--	Prostate Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	fa05f7f6-50e9-4878-a834-f655c0877394	TCGA-ZF-A9RF	'--	'--	'--	Breast Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	fae38579-5fe2-4d81-9729-39fde866d18c	TCGA-FJ-A3ZF	'--	'--	'--	Lung Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	fc0032db-b6d8-4da3-bd1b-beec4196abf0	TCGA-DK-A3IN	'--	'--	'--	Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	fc0032db-b6d8-4da3-bd1b-beec4196abf0	TCGA-DK-A3IN	'--	'--	'--	Colorectal Cancer	Brother	'--	'--	yes	'--	'--
+TCGA-BLCA	ff5b9238-38a7-42b4-9d44-3b8ec9913f6d	TCGA-GU-A42P	'--	'--	'--	Cervical Cancer	Sister	'--	'--	yes	'--	'--
+TCGA-BLCA	ffafcbfd-0eb3-4e14-acd0-4407b641a4a5	TCGA-4Z-AA7Q	'--	'--	'--	Gallbladder Cancer	Mother	'--	'--	yes	'--	'--
