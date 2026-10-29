@@ -8,6 +8,7 @@ The Steps_Followed.docx file describes every step implemented to achieve the pro
 Goal To build, evaluate and deploy a machine learning model for classifying cancer subtypes from high-dimensional gene expression profiles with a strong emphasis on interpretability and user-friendly interaction.
 
 Tools Language: Python Data Processing: Pandas, NumPy Machine Learning: Scikit-learn, Random Forest, XG Boost Dimensionality Reduction: PCA, UMAP Visualization and Interpretability: Matplotlib, Seaborn, Plotly, SHAP Deployment: Streamlit
+
 Methodology
 
 Data Acquisition: Publicly Available bladder cancer data TCGA-BLCA cohort was harvested using the GDC Data Transfer Tool. _Number of Cases: 853, 39380 files- 412 for TCGA-BLCA, Tissue/Organ of Origin: Anterior Wall of Bladder, Bladder neck, Bladder, Dome of Bladder, Lateral wall of bladder, overlapping lesion of bladder, posterior wall of bladder, Trigone of Bladder, Urachus, Ureteric Orifice.
